@@ -1,0 +1,4 @@
+D:\Programs\JetBrains\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\ruina\Desktop\3\program
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/ruina/Desktop/3/program/cmake-build-debug

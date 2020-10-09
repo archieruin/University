@@ -1,0 +1,43 @@
+.586
+.MODEL FLAT, C
+.DATA
+			m  EQU       95
+
+.CODE
+	Expression PROC C
+		push ebp
+		mov ebp, esp
+
+			xor      eax, eax                   ; ax = 0
+			mov      ax, [ebp+12]               ; ax = b
+			mul      ax                         ; ax = b ^ 2
+			mov      cx, ax                     ; cx = ax = b ^ 2
+
+			xor      eax, eax                   ; ax = 0
+			mov      ax, [ebp+16]               ; ax = c
+			mul      ax                         ; ax = c ^ 2
+			mul      cx                         ; ax = c ^ 2 * b ^ 2
+			sub      ax, 23d                    ; ax = (c ^ 2 * b ^ 2) - 23
+			mov      cx, ax                     ; cx = ax = (c ^ 2 * b ^ 2) - 23  
+
+			xor      eax, eax                   ; ax = 0
+			mov      ax, [ebp+20]               ; ax = d
+			mul      ax                         ; ax = d ^ 2
+			sub      ax, [ebp+12]               ; ax = d ^ 2 - b
+			mov      bx, [ebp+8]                ; bx = a
+			mul      bx                         ; dx:ax = (d ^ 2 - b) * a
+			div      cx                         ; ax = (d ^ 2 - b) * a / (c ^ 2 * b ^ 2) - 23
+			mov      cx, ax                     ; cx = ax = (d ^ 2 - b) * a / (c ^ 2 * b ^ 2) - 23 ---> cx
+
+			xor      eax, eax                   ; ax = 0
+			mov      bx, [ebp+12]               ; bx = b
+			add      bx, cx                     ; bx = b + ((d ^ 2 - b) * a / (c ^ 2 * b ^ 2) - 23)
+			sub      bx, 95d                    ; bx = b + ((d ^ 2 - b) * a / (c ^ 2 * b ^ 2) - 23) - 95
+
+			mov      ax, bx
+
+		mov esp ,ebp
+		pop ebp
+		RET
+	Expression Endp
+END

@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.18362 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Programs/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.24.28314 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28314.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/ruina/Desktop/2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Programs/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.24.28314 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.24.28314.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/ruina/Desktop/2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/ruina/Desktop/2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_847d0\fast && 	"D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\nmake.exe" -f CMakeFiles\cmTC_847d0.dir\build.make /nologo -L                  CMakeFiles\cmTC_847d0.dir\build
+Building C object CMakeFiles/cmTC_847d0.dir/testCCompiler.c.obj
+	"D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\cl.exe" @C:\Users\ruina\AppData\Local\Temp\nm9B8.tmp
+testCCompiler.c
+Linking C executable cmTC_847d0.exe
+	D:\Programs\JetBrains\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_847d0.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x64\mt.exe" --manifests  -- "D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\link.exe" /nologo @CMakeFiles\cmTC_847d0.dir\objects1.rsp @C:\Users\ruina\AppData\Local\Temp\nmAC3.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ruina/Desktop/2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_137f7\fast && 	"D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\nmake.exe" -f CMakeFiles\cmTC_137f7.dir\build.make /nologo -L                  CMakeFiles\cmTC_137f7.dir\build
+Building C object CMakeFiles/cmTC_137f7.dir/CMakeCCompilerABI.c.obj
+	"D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\cl.exe" @C:\Users\ruina\AppData\Local\Temp\nm10FC.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_137f7.exe
+	D:\Programs\JetBrains\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_137f7.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x64\mt.exe" --manifests  -- "D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\link.exe" /nologo @CMakeFiles\cmTC_137f7.dir\objects1.rsp @C:\Users\ruina\AppData\Local\Temp\nm1235.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/ruina/Desktop/2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_b5ca8\fast && 	"D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\nmake.exe" -f CMakeFiles\cmTC_b5ca8.dir\build.make /nologo -L                  CMakeFiles\cmTC_b5ca8.dir\build
+Building CXX object CMakeFiles/cmTC_b5ca8.dir/testCXXCompiler.cxx.obj
+	"D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\cl.exe" @C:\Users\ruina\AppData\Local\Temp\nm1978.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_b5ca8.exe
+	D:\Programs\JetBrains\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_b5ca8.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x64\mt.exe" --manifests  -- "D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\link.exe" /nologo @CMakeFiles\cmTC_b5ca8.dir\objects1.rsp @C:\Users\ruina\AppData\Local\Temp\nm1A63.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ruina/Desktop/2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_5ef62\fast && 	"D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\x64\nmake.exe" -f CMakeFiles\cmTC_5ef62.dir\build.make /nologo -L                  CMakeFiles\cmTC_5ef62.dir\build
+Building CXX object CMakeFiles/cmTC_5ef62.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\cl.exe" @C:\Users\ruina\AppData\Local\Temp\nm2157.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_5ef62.exe
+	D:\Programs\JetBrains\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_5ef62.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x64\mt.exe" --manifests  -- "D:\Programs\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\link.exe" /nologo @CMakeFiles\cmTC_5ef62.dir\objects1.rsp @C:\Users\ruina\AppData\Local\Temp\nm23D9.tmp
+
+
+

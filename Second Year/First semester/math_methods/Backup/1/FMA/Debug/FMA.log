@@ -1,0 +1,4 @@
+﻿  FMA.cpp
+D:\dev\C++\FMA\FMA\Area.h(5,18): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+D:\dev\C++\FMA\FMA\FMA.cpp(11,17): warning C4101:  S: неиспользованная локальная переменная
+  FMA.vcxproj -> D:\dev\C++\FMA\Debug\FMA.exe

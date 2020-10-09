@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, p{
+    text-align: center;
+}
+
+li {
+    border-bottom: 1px solid #c8c8c8;
+}
+
+li:last-child {
+    border: none;
+}

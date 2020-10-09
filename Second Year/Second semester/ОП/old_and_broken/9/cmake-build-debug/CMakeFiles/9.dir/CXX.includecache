@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/archie/projects/University/Second semester/Основы Программирования/9/distance.cpp
+cmath
+-
+
+/home/archie/projects/University/Second semester/Основы Программирования/9/distance.h
+
+/home/archie/projects/University/Second semester/Основы Программирования/9/main.cpp
+iostream
+-
+cmath
+-
+distance.h
+/home/archie/projects/University/Second semester/Основы Программирования/9/distance.h
+

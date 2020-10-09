@@ -1,0 +1,15 @@
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\bin\Debug\netcoreapp3.1\Lab_2_FactoryMethod.exe
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\bin\Debug\netcoreapp3.1\Lab_2_FactoryMethod.deps.json
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\bin\Debug\netcoreapp3.1\Lab_2_FactoryMethod.runtimeconfig.json
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\bin\Debug\netcoreapp3.1\Lab_2_FactoryMethod.runtimeconfig.dev.json
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\bin\Debug\netcoreapp3.1\Lab_2_FactoryMethod.dll
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\bin\Debug\netcoreapp3.1\Lab_2_FactoryMethod.pdb
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\obj\Debug\netcoreapp3.1\Lab_2_FactoryMethod.csprojAssemblyReference.cache
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\obj\Debug\netcoreapp3.1\Lab_2_FactoryMethod.Form1.resources
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\obj\Debug\netcoreapp3.1\Lab_2_FactoryMethod.csproj.GenerateResource.cache
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\obj\Debug\netcoreapp3.1\Lab_2_FactoryMethod.AssemblyInfoInputs.cache
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\obj\Debug\netcoreapp3.1\Lab_2_FactoryMethod.AssemblyInfo.cs
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\obj\Debug\netcoreapp3.1\Lab_2_FactoryMethod.csproj.CoreCompileInputs.cache
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\obj\Debug\netcoreapp3.1\Lab_2_FactoryMethod.dll
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\obj\Debug\netcoreapp3.1\Lab_2_FactoryMethod.pdb
+D:\dev\study\University\Third Year\PZ\Lab_2_FactoryMethod\Lab_2_FactoryMethod\obj\Debug\netcoreapp3.1\Lab_2_FactoryMethod.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+/home/archie/projects/University/Second semester/Основы Программирования/9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/archie/projects/University/Second semester/Основы Программирования/9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/archie/projects/University/Second semester/Основы Программирования/9/cmake-build-debug/CMakeFiles/9.dir

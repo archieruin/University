@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab 5 - Form</title>
+    <link rel="stylesheet" href="fonts/fonts.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Form</h1>
+<p>Lab #5</p>
+
+<div class="container">
+    <form class="form" action="">
+        <label for="last_name">Фамилия:</label>
+        <input type="text" id="last_name" name="last_name">
+
+        <label for="login">Логин:</label>
+        <input type="text" id="login" name="login">
+
+        <label for="password">Пароль:</label>
+        <input type="password" id="password" name="password">
+
+        <label for="birth_date">Дата рождения:</label>
+        <input type="date" id="birth_date" name="birth_date">
+
+        <label for="male_group">Пол:</label>
+        <div class="form__group" id="male_group">
+            <input type="radio" id="male" name="gender" value="male" checked>
+            <label for="male">Male</label><br>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label><br>
+            <input type="radio" id="other" name="gender" value="other">
+            <label for="other">Other</label>
+        </div>
+        <div class="form__group">
+            <label for="accept">Согласен:</label>
+            <input type="checkbox" id="accept" name="accept" value="yes">
+        </div>
+
+        <label for="comment">Комментарий:</label>
+        <textarea name="comment" id="comment" cols="30" rows="5"></textarea>
+
+        <input type="submit">
+    </form>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

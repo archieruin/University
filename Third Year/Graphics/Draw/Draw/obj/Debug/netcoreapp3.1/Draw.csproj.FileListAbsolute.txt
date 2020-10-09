@@ -1,0 +1,15 @@
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.exe
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.deps.json
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.runtimeconfig.json
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.runtimeconfig.dev.json
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.dll
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\bin\Debug\netcoreapp3.1\Draw.pdb
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.csprojAssemblyReference.cache
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.AssemblyInfoInputs.cache
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.AssemblyInfo.cs
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.csproj.CoreCompileInputs.cache
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.dll
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.pdb
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.genruntimeconfig.cache
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.Form1.resources
+D:\dev\study\University\Third Year\Graphics\Draw\Draw\obj\Debug\netcoreapp3.1\Draw.csproj.GenerateResource.cache

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/architecture/3/program/func.h
+iostream
+-
+
+D:/University/architecture/3/program/main.cpp
+iostream
+-
+func.h
+D:/University/architecture/3/program/func.h
+

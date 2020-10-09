@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab 3 - Table</title>
+    <link rel="stylesheet" href="fonts/fonts.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Table</h1>
+<p>Lab #3</p>
+
+<div class="container">
+    <table border="1" cellspacing="0" cellpadding="5">
+        <tr>
+            <th>A</th>
+            <td>a</td>
+            <td colspan="2">
+                <marquee scrollamount="3" behavior="scroll" direction="left">Подвижный ряд (горизональный)</marquee>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td class="red_bg">червоний</td>
+            <td class="img_bg">Замощений фон</td>
+            <td>
+                <marquee scrollamount="2" behavior="scroll" direction="down">Рухомий рядок <br> (вертикальний)</marquee>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3"><img src="images/flower1.jpg" alt="flower" width="200"></td>
+            <td class="yellow_bg">Желтый</td>
+            <td rowspan="2" colspan="2">
+                <iframe src="../lab_1/index.html" frameborder="0"></iframe>
+            </td>
+        </tr>
+        <tr>
+            <td class="green_bg">Зеленый</td>
+        </tr>
+    </table>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

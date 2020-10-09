@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container h1 {
+    font-size: 46px;
+}
+
+.yellow_bg {
+    background-color: yellow;
+}
+
+.blue_bg {
+    background-color: blue;
+}
+
+.yellow_color {
+    color: yellow;
+}
+
+.blue_color {
+    color: blue;
+}

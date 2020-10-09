@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ruina\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ruina\\.nuget\\packages"
+    ]
+  }
+}

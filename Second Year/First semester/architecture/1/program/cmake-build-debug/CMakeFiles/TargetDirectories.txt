@@ -1,0 +1,3 @@
+D:/University/architecture/1/program/cmake-build-debug/CMakeFiles/program.dir
+D:/University/architecture/1/program/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University/architecture/1/program/cmake-build-debug/CMakeFiles/rebuild_cache.dir

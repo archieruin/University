@@ -1,0 +1,13 @@
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\bin\Debug\netcoreapp3.1\Lab_2_2.exe
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\bin\Debug\netcoreapp3.1\Lab_2_2.deps.json
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\bin\Debug\netcoreapp3.1\Lab_2_2.runtimeconfig.json
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\bin\Debug\netcoreapp3.1\Lab_2_2.runtimeconfig.dev.json
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\bin\Debug\netcoreapp3.1\Lab_2_2.dll
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\bin\Debug\netcoreapp3.1\Lab_2_2.pdb
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.csprojAssemblyReference.cache
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.AssemblyInfoInputs.cache
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.AssemblyInfo.cs
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.csproj.CoreCompileInputs.cache
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.dll
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.pdb
+D:\dev\study\University\Third Year\PZ\Lab_2_2\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.genruntimeconfig.cache

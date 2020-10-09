@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/V12.dir/main.c.o  -o V12 
