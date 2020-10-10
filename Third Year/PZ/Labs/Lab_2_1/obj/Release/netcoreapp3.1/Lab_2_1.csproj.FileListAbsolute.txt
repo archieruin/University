@@ -1,0 +1,15 @@
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\bin\Release\netcoreapp3.1\Lab_2_1.exe
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\bin\Release\netcoreapp3.1\Lab_2_1.deps.json
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\bin\Release\netcoreapp3.1\Lab_2_1.runtimeconfig.json
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\bin\Release\netcoreapp3.1\Lab_2_1.runtimeconfig.dev.json
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\bin\Release\netcoreapp3.1\Lab_2_1.dll
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\bin\Release\netcoreapp3.1\Lab_2_1.pdb
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\obj\Release\netcoreapp3.1\Lab_2_1.csprojAssemblyReference.cache
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\obj\Release\netcoreapp3.1\Lab_2_1.Form1.resources
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\obj\Release\netcoreapp3.1\Lab_2_1.csproj.GenerateResource.cache
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\obj\Release\netcoreapp3.1\Lab_2_1.AssemblyInfoInputs.cache
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\obj\Release\netcoreapp3.1\Lab_2_1.AssemblyInfo.cs
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\obj\Release\netcoreapp3.1\Lab_2_1.csproj.CoreCompileInputs.cache
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\obj\Release\netcoreapp3.1\Lab_2_1.dll
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\obj\Release\netcoreapp3.1\Lab_2_1.pdb
+D:\study\University\Third Year\PZ\Labs\Lab_2_1\obj\Release\netcoreapp3.1\Lab_2_1.genruntimeconfig.cache

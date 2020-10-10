@@ -1,0 +1,14 @@
+D:\study\University\Third Year\PZ\Labs\Lab_1\bin\Debug\netcoreapp3.1\Lab_1.exe
+D:\study\University\Third Year\PZ\Labs\Lab_1\bin\Debug\netcoreapp3.1\Lab_1.deps.json
+D:\study\University\Third Year\PZ\Labs\Lab_1\bin\Debug\netcoreapp3.1\Lab_1.runtimeconfig.json
+D:\study\University\Third Year\PZ\Labs\Lab_1\bin\Debug\netcoreapp3.1\Lab_1.runtimeconfig.dev.json
+D:\study\University\Third Year\PZ\Labs\Lab_1\bin\Debug\netcoreapp3.1\Lab_1.dll
+D:\study\University\Third Year\PZ\Labs\Lab_1\bin\Debug\netcoreapp3.1\Lab_1.pdb
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.AssemblyInfoInputs.cache
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.AssemblyInfo.cs
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.csproj.CoreCompileInputs.cache
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.dll
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.pdb
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.genruntimeconfig.cache
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.Form1.resources
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.csproj.GenerateResource.cache
