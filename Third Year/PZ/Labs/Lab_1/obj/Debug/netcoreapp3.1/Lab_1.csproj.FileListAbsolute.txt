@@ -10,5 +10,6 @@ D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.cspro
 D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.dll
 D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.pdb
 D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.genruntimeconfig.cache
-D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.Form1.resources
 D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.csproj.GenerateResource.cache
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.csprojAssemblyReference.cache
+D:\study\University\Third Year\PZ\Labs\Lab_1\obj\Debug\netcoreapp3.1\Lab_1.Weapon.resources
