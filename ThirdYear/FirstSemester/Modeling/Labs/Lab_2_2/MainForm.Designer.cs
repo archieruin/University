@@ -1,4 +1,6 @@
-﻿namespace Lab_2_2
+﻿using System;
+
+namespace Lab_2_2
 {
     partial class MainForm
     {
@@ -28,90 +30,59 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.balanceLabel = new System.Windows.Forms.Label();
-            this.balanceInfoLabel = new System.Windows.Forms.Label();
-            this.chooseGameLabel = new System.Windows.Forms.Label();
-            this.chooseGameBox = new System.Windows.Forms.ComboBox();
-            this.enterButton = new System.Windows.Forms.Button();
+            this.gameTypeComboBox = new System.Windows.Forms.ComboBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.outputTextBox = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
-            // balanceLabel
+            // gameTypeComboBox
             // 
-            this.balanceLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.balanceLabel.Location = new System.Drawing.Point(12, 22);
-            this.balanceLabel.Margin = new System.Windows.Forms.Padding(4, 12, 0, 0);
-            this.balanceLabel.Name = "balanceLabel";
-            this.balanceLabel.Size = new System.Drawing.Size(54, 17);
-            this.balanceLabel.TabIndex = 0;
-            this.balanceLabel.Text = "Баланс:";
+            this.gameTypeComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.gameTypeComboBox.FormattingEnabled = true;
+            this.gameTypeComboBox.Location = new System.Drawing.Point(19, 40);
+            this.gameTypeComboBox.Name = "gameTypeComboBox";
+            this.gameTypeComboBox.Size = new System.Drawing.Size(184, 21);
+            this.gameTypeComboBox.TabIndex = 0;
+            this.gameTypeComboBox.SelectedIndexChanged += new System.EventHandler(this.gameTypeComboBox_SelectedIndexChanged);
             // 
-            // balanceInfoLabel
+            // label1
             // 
-            this.balanceInfoLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.balanceInfoLabel.Location = new System.Drawing.Point(66, 22);
-            this.balanceInfoLabel.Margin = new System.Windows.Forms.Padding(0, 12, 0, 0);
-            this.balanceInfoLabel.Name = "balanceInfoLabel";
-            this.balanceInfoLabel.Size = new System.Drawing.Size(111, 17);
-            this.balanceInfoLabel.TabIndex = 0;
-            this.balanceInfoLabel.Text = "0 грн.";
+            this.label1.Location = new System.Drawing.Point(19, 19);
+            this.label1.Margin = new System.Windows.Forms.Padding(5, 10, 5, 3);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(120, 15);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Выберите тип игры:";
             // 
-            // chooseGameLabel
+            // outputTextBox
             // 
-            this.chooseGameLabel.Location = new System.Drawing.Point(12, 50);
-            this.chooseGameLabel.Margin = new System.Windows.Forms.Padding(4, 12, 4, 0);
-            this.chooseGameLabel.Name = "chooseGameLabel";
-            this.chooseGameLabel.Size = new System.Drawing.Size(117, 18);
-            this.chooseGameLabel.TabIndex = 1;
-            this.chooseGameLabel.Text = "Выберите игру:";
-            // 
-            // chooseGameBox
-            // 
-            this.chooseGameBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.chooseGameBox.FormattingEnabled = true;
-            this.chooseGameBox.Location = new System.Drawing.Point(12, 71);
-            this.chooseGameBox.Name = "chooseGameBox";
-            this.chooseGameBox.Size = new System.Drawing.Size(275, 23);
-            this.chooseGameBox.TabIndex = 2;
-            // 
-            // enterButton
-            // 
-            this.enterButton.Location = new System.Drawing.Point(109, 109);
-            this.enterButton.Margin = new System.Windows.Forms.Padding(100, 12, 100, 3);
-            this.enterButton.Name = "enterButton";
-            this.enterButton.Size = new System.Drawing.Size(81, 22);
-            this.enterButton.TabIndex = 3;
-            this.enterButton.Text = "Войти";
-            this.enterButton.UseVisualStyleBackColor = true;
-            this.enterButton.Click += new System.EventHandler(this.enterButton_Click);
+            this.outputTextBox.Location = new System.Drawing.Point(19, 67);
+            this.outputTextBox.Margin = new System.Windows.Forms.Padding(10, 3, 10, 10);
+            this.outputTextBox.Name = "outputTextBox";
+            this.outputTextBox.Size = new System.Drawing.Size(433, 245);
+            this.outputTextBox.TabIndex = 2;
+            this.outputTextBox.Text = "";
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(299, 375);
-            this.Controls.Add(this.enterButton);
-            this.Controls.Add(this.chooseGameBox);
-            this.Controls.Add(this.chooseGameLabel);
-            this.Controls.Add(this.balanceInfoLabel);
-            this.Controls.Add(this.balanceLabel);
+            this.ClientSize = new System.Drawing.Size(471, 331);
+            this.Controls.Add(this.outputTextBox);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.gameTypeComboBox);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "MainForm";
             this.Text = "Букмекерская контора";
             this.ResumeLayout(false);
-
         }
 
-        private System.Windows.Forms.Label chooseGameLabel;
+        private System.Windows.Forms.RichTextBox outputTextBox;
 
-        private System.Windows.Forms.Label balanceInfoLabel;
-
-        private System.Windows.Forms.Label balanceLabel;
+        private System.Windows.Forms.ComboBox gameTypeComboBox;
+        private System.Windows.Forms.Label label1;
 
         #endregion
-
-        private System.Windows.Forms.ComboBox chooseGameBox;
-        private System.Windows.Forms.Button enterButton;
     }
 }
 

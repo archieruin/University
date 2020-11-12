@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj",
+    "projectUniqueName": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj",
     "projectName": "Lab_1",
-    "projectPath": "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj",
-    "outputPath": "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\obj\\",
+    "projectPath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj",
+    "outputPath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Microsoft\\Xamarin\\NuGet"

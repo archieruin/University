@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj": {}
+    "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj": {}
   },
   "projects": {
-    "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj": {
+    "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj",
+        "projectUniqueName": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj",
         "projectName": "Lab_1",
-        "projectPath": "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj",
+        "projectPath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\Lab_1.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\obj\\",
+        "outputPath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet"
         ],
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",

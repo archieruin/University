@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\artur\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Microsoft\\Xamarin\\NuGet": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_2_2\\Lab_2_2.csproj",
+      "projectUniqueName": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_2_2\\Lab_2_2.csproj",
       "projectName": "Lab_2_2",
-      "projectPath": "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_2_2\\Lab_2_2.csproj",
+      "projectPath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_2_2\\Lab_2_2.csproj",
       "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-      "outputPath": "D:\\study\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_2_2\\obj\\",
+      "outputPath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_2_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet"
       ],
       "configFilePaths": [
         "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
