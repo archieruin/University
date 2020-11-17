@@ -17,6 +17,7 @@ namespace Lab_2_2
         {
             InitializeComponent();
             
+            #region Create Games
             _dotaGames = new List<Game>
             {
                 _beatsFactory.CreateGame(GameType.Dota, "Dota tournament v1", 1.2, 2.34),
@@ -43,6 +44,7 @@ namespace Lab_2_2
                 _beatsFactory.CreateGame(GameType.FootBall, "Гран Канария vs Тренто", 1.92, 1.89),
                 _beatsFactory.CreateGame(GameType.FootBall, "Нижний Новгород vs Парма Пермь", 1.87, 1.91),
             };
+            #endregion
             
             gameTypeComboBox.Items.Add(GameType.Dota);
             gameTypeComboBox.Items.Add(GameType.Csgo);
