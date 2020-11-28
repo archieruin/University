@@ -47,7 +47,6 @@ D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\bin\Debug\netcoreapp
 D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\bin\Debug\netcoreapp3.1\Lab_2_2.dll
 D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\bin\Debug\netcoreapp3.1\Lab_2_2.pdb
 D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.csprojAssemblyReference.cache
-D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.MainForm.resources
 D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.csproj.GenerateResource.cache
 D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.AssemblyInfoInputs.cache
 D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.AssemblyInfo.cs
@@ -55,3 +54,4 @@ D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp
 D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.dll
 D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.pdb
 D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.genruntimeconfig.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_2_2\obj\Debug\netcoreapp3.1\Lab_2_2.BeatsFactory.resources

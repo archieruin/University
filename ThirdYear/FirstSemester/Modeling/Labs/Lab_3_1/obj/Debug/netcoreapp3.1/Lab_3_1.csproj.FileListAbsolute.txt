@@ -1,0 +1,15 @@
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\bin\Debug\netcoreapp3.1\Lab_3_1.exe
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\bin\Debug\netcoreapp3.1\Lab_3_1.deps.json
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\bin\Debug\netcoreapp3.1\Lab_3_1.runtimeconfig.json
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\bin\Debug\netcoreapp3.1\Lab_3_1.runtimeconfig.dev.json
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\bin\Debug\netcoreapp3.1\Lab_3_1.dll
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\bin\Debug\netcoreapp3.1\Lab_3_1.pdb
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.csprojAssemblyReference.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.AssemblyInfoInputs.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.AssemblyInfo.cs
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.csproj.CoreCompileInputs.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.dll
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.pdb
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.genruntimeconfig.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.csproj.GenerateResource.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.СuisineFactory.resources
