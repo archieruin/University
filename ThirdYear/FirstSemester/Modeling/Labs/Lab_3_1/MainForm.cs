@@ -13,8 +13,8 @@ Factories:
         - СuisineFactory
         
     classes:
-        - UkrainianСuisineFactory
-        - EasternСuisineFactory
+        - UkrainianСuisineFactory : СuisineFactory
+        - EasternСuisineFactory : СuisineFactory
     
 Products:
     abstract classes:
@@ -24,15 +24,15 @@ Products:
         - IceCream
         
     classes:
-        - UkrainianSoup
-        - UkrainianDumplings
-        - UkrainianCake
-        - UkrainianIceCream
+        - UkrainianSoup : Soup
+        - UkrainianDumplings : Dumplings
+        - UkrainianCake : Cake
+        - UkrainianIceCream : IceCream
     
-        - EasternSoup
-        - EasternDumplings
-        - EasternCake
-        - EasternIceCream
+        - EasternSoup : Soup
+        - EasternDumplings : Dumplings
+        - EasternCake : Cake
+        - EasternIceCream : IceCream
 */
 
 
@@ -328,7 +328,7 @@ namespace Lab_3_1
 
     public partial class Form1 : Form
     {
-        СuisineFactory _cuisine;
+        СuisineFactory _cuisineFactory;
         public Form1()
         {
             InitializeComponent();
@@ -340,13 +340,13 @@ namespace Lab_3_1
 
         private void chooseCuisineBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-            _cuisine = chooseCuisineBox.SelectedIndex switch
+            _cuisineFactory = chooseCuisineBox.SelectedIndex switch
             {
                 0 => new UkrainianСuisine(),
                 1 => new EasternСuisine(),
-                _ => _cuisine
+                _ => _cuisineFactory
             };
-            FillChooseEatBox(_cuisine);
+            FillChooseEatBox(_cuisineFactory);
         }
 
         private void chooseEatBox_SelectedIndexChanged(object sender, EventArgs e)
@@ -355,36 +355,40 @@ namespace Lab_3_1
             switch (chooseEatBox.SelectedIndex)
             {
                 case 0:
-                    var soup = _cuisine.CreateSoup();
+                    var soup = _cuisineFactory.CreateSoup();
                     text = $"Название: {soup.Name}\n\n";
+                    text += $"Категория: {soup.category}\n\n";
                     text += $"Ингридиенты:\n{soup.GetIngredients()}";
                     break;
                 case 1:
-                    var dumplings = _cuisine.CreateDumplings();
+                    var dumplings = _cuisineFactory.CreateDumplings();
                     text = $"Название: {dumplings.Name}\n\n";
+                    text += $"Категория: {dumplings.category}\n\n";
                     text += $"Ингридиенты:\n{dumplings.GetIngredients()}";
                     break;
                 case 2:
-                    var cake = _cuisine.CreateCake();
+                    var cake = _cuisineFactory.CreateCake();
                     text = $"Название: {cake.Name}\n\n";
+                    text += $"Категория: {cake.category}\n\n";
                     text += $"Ингридиенты:\n{cake.GetIngredients()}";
                     break;
                 case 3:
-                    var icecream = _cuisine.CreateIceCream();
+                    var icecream = _cuisineFactory.CreateIceCream();
                     text = $"Название: {icecream.Name}\n\n";
+                    text += $"Категория: {icecream.category}\n\n";
                     text += $"Ингридиенты:\n{icecream.GetIngredients()}";
                     break;
             }
             resultTextBox.Text = text;
         }
 
-        private void FillChooseEatBox(СuisineFactory cuisine)
+        private void FillChooseEatBox(СuisineFactory cuisineFactory)
         {
             chooseEatBox.Items.Clear();
-            chooseEatBox.Items.Add(cuisine.CreateSoup().Name);
-            chooseEatBox.Items.Add(cuisine.CreateDumplings().Name);
-            chooseEatBox.Items.Add(cuisine.CreateCake().Name);
-            chooseEatBox.Items.Add(cuisine.CreateIceCream().Name);
+            chooseEatBox.Items.Add(cuisineFactory.CreateSoup().Name);
+            chooseEatBox.Items.Add(cuisineFactory.CreateDumplings().Name);
+            chooseEatBox.Items.Add(cuisineFactory.CreateCake().Name);
+            chooseEatBox.Items.Add(cuisineFactory.CreateIceCream().Name);
             chooseEatBox.Enabled = true;
             chooseEatBox.SelectedIndex = 0;
         }

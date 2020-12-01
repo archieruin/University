@@ -1,0 +1,15 @@
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\bin\Debug\netcoreapp3.1\Lab_3_2.exe
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\bin\Debug\netcoreapp3.1\Lab_3_2.deps.json
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\bin\Debug\netcoreapp3.1\Lab_3_2.runtimeconfig.json
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\bin\Debug\netcoreapp3.1\Lab_3_2.runtimeconfig.dev.json
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\bin\Debug\netcoreapp3.1\Lab_3_2.dll
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\bin\Debug\netcoreapp3.1\Lab_3_2.pdb
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\obj\Debug\netcoreapp3.1\Lab_3_2.csprojAssemblyReference.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\obj\Debug\netcoreapp3.1\Lab_3_2.AssemblyInfoInputs.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\obj\Debug\netcoreapp3.1\Lab_3_2.AssemblyInfo.cs
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\obj\Debug\netcoreapp3.1\Lab_3_2.csproj.CoreCompileInputs.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\obj\Debug\netcoreapp3.1\Lab_3_2.dll
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\obj\Debug\netcoreapp3.1\Lab_3_2.pdb
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\obj\Debug\netcoreapp3.1\Lab_3_2.genruntimeconfig.cache
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\obj\Debug\netcoreapp3.1\Lab_3_2.TiresFactory.resources
+D:\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_2\obj\Debug\netcoreapp3.1\Lab_3_2.csproj.GenerateResource.cache
