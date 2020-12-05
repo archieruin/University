@@ -14,7 +14,7 @@
         "outputPath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_2_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
