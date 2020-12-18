@@ -22,8 +22,10 @@ namespace Lab_1
             OwnerName = ownerName;
             Damage = damage;
         }
-
-        public abstract string Info();
+        public virtual string Info()
+        {
+            return $"Название: {Name}, Владелец: {OwnerName}, Урон: {Damage}";
+        }
 
         public abstract string MakeDamage(string To);
     }

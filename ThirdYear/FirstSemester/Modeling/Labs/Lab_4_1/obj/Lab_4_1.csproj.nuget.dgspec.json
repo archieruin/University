@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\Lab_4_1.csproj": {}
+    "D:\\dev\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\Lab_4_1.csproj": {}
   },
   "projects": {
-    "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\Lab_4_1.csproj": {
+    "D:\\dev\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\Lab_4_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\Lab_4_1.csproj",
+        "projectUniqueName": "D:\\dev\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\Lab_4_1.csproj",
         "projectName": "Lab_4_1",
-        "projectPath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\Lab_4_1.csproj",
+        "projectPath": "D:\\dev\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\Lab_4_1.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\obj\\",
+        "outputPath": "D:\\dev\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_4_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -51,6 +53,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -59,7 +71,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

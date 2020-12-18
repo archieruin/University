@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pwaFYx5dl4J7digAp+Rz2n5Tic+uSrJHanKH19LsVbSgtq+K97qpWNYhyfzeDbtC2nDIh5Oo+jjkZFoVhVW7zA==",
+  "dgSpecHash": "6GiaCU365Wy7GVzKVNl8JXiyC7nUKUywFvg9jnSYg36MAfvZ83+alYbpM9yXWtdICcTW9pO00ATKe7OieB3nCg==",
   "success": true,
-  "projectFilePath": "D:\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_3_2\\Lab_3_2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\dev\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_3_2\\Lab_3_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\artur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

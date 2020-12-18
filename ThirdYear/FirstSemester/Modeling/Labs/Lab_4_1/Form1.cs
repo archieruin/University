@@ -6,9 +6,6 @@ namespace Lab_4_1
 { 
     public partial class Form1 : Form
     {
-        private readonly int _screenWidth;
-        private readonly int _screenHeight;
-
         private readonly Bitmap _bmp;
         private readonly Graphics _g;
         private readonly Pen _pen;
@@ -24,9 +21,6 @@ namespace Lab_4_1
         {
             InitializeComponent();
 
-            _screenWidth = pictureBox1.Width;
-            _screenHeight = pictureBox1.Height;
-            
             _bmp = new Bitmap(500, 500);
             _g = Graphics.FromImage(_bmp);
             _pen = new Pen(Color.Black, 5);
