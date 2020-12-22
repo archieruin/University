@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_2_2.BeatsFactory">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BeatsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_2.Game">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAEAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BeatsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_2.Dota">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BeatsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_2.Csgo">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BeatsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_2.FootBall">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BeatsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_2.BasketBall">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BeatsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Lab_2_2.GameType">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAIAAAQAAAA=</HashCode>
+      <FileName>BeatsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

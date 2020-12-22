@@ -20,7 +20,6 @@ D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\bin\Debug\netcor
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\bin\Debug\netcoreapp3.1\Lab_3_1.dll
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\bin\Debug\netcoreapp3.1\Lab_3_1.pdb
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.csprojAssemblyReference.cache
-D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.Form1.resources
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.csproj.GenerateResource.cache
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.AssemblyInfoInputs.cache
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.AssemblyInfo.cs
@@ -28,3 +27,4 @@ D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcor
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.dll
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.pdb
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.genruntimeconfig.cache
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_3_1\obj\Debug\netcoreapp3.1\Lab_3_1.MainForm.resources

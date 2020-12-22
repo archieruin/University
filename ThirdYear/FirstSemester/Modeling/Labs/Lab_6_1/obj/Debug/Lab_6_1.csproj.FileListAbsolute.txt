@@ -1,0 +1,10 @@
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\obj\Debug\Lab_6_1.csprojAssemblyReference.cache
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\obj\Debug\Lab_6_1.Properties.Resources.resources
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\obj\Debug\Lab_6_1.csproj.GenerateResource.cache
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\obj\Debug\Lab_6_1.csproj.CoreCompileInputs.cache
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\bin\Debug\Lab_6_1.exe.config
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\bin\Debug\Lab_6_1.exe
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\bin\Debug\Lab_6_1.pdb
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\obj\Debug\Lab_6_1.exe
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\obj\Debug\Lab_6_1.pdb
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_6_1\obj\Debug\Lab_6_1.MainForm.resources

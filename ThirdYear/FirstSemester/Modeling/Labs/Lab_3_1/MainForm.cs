@@ -1,47 +1,12 @@
 ﻿using System;
 using System.Windows.Forms;
-using System.Windows.Forms.VisualStyles;
-
-/*
-TODO:
-Застосувати патерн Абстрактна фабрика 
-для сімейств класів Основні страви та Десерти, 
-створивши фабрики їжі для української кухні та східної кухні.
-
-Factories:
-    abstract classes:
-        - СuisineFactory
-        
-    classes:
-        - UkrainianСuisineFactory : СuisineFactory
-        - EasternСuisineFactory : СuisineFactory
-    
-Products:
-    abstract classes:
-        - Soup
-        - Dumplings
-        - Cake
-        - IceCream
-        
-    classes:
-        - UkrainianSoup : Soup
-        - UkrainianDumplings : Dumplings
-        - UkrainianCake : Cake
-        - UkrainianIceCream : IceCream
-    
-        - EasternSoup : Soup
-        - EasternDumplings : Dumplings
-        - EasternCake : Cake
-        - EasternIceCream : IceCream
-*/
-
 
 namespace Lab_3_1
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         СuisineFactory _cuisineFactory;
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             chooseCuisineBox.Items.Add("Украинская Кухня");

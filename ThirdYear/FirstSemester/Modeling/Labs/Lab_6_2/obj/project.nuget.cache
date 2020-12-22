@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkTC3h6Hv7N0ITN3XBFPoLZuIwEv5deI8/GNf8wlbaR35usaXsrUmGo2sADriToLXCddqGBFXteDRRrGsPtb8g==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\University\\ThirdYear\\FirstSemester\\Modeling\\Labs\\Lab_6_2\\Lab_6_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\artur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

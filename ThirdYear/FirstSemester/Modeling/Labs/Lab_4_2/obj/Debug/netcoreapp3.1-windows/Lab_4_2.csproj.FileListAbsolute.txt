@@ -5,7 +5,6 @@ D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\bin\Debug\netcor
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\bin\Debug\netcoreapp3.1-windows\Lab_4_2.dll
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\bin\Debug\netcoreapp3.1-windows\Lab_4_2.pdb
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcoreapp3.1-windows\Lab_4_2.csprojAssemblyReference.cache
-D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcoreapp3.1-windows\Lab_4_2.Form1.resources
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcoreapp3.1-windows\Lab_4_2.csproj.GenerateResource.cache
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcoreapp3.1-windows\Lab_4_2.AssemblyInfoInputs.cache
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcoreapp3.1-windows\Lab_4_2.AssemblyInfo.cs
@@ -13,3 +12,4 @@ D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcor
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcoreapp3.1-windows\Lab_4_2.dll
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcoreapp3.1-windows\Lab_4_2.pdb
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcoreapp3.1-windows\Lab_4_2.genruntimeconfig.cache
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_4_2\obj\Debug\netcoreapp3.1-windows\Lab_4_2.MainForm.resources

@@ -7,4 +7,4 @@ D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_5_1\obj\Debug\Lab_5_
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_5_1\obj\Debug\Lab_5_1.csproj.CoreCompileInputs.cache
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_5_1\obj\Debug\Lab_5_1.exe
 D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_5_1\obj\Debug\Lab_5_1.pdb
-D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_5_1\obj\Debug\Lab_5_1.Form1.resources
+D:\dev\University\ThirdYear\FirstSemester\Modeling\Labs\Lab_5_1\obj\Debug\Lab_5_1.MainForm.resources

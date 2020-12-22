@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_3_2.TiresFactory" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.JeepTiresFactory">
+    <Position X="9.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.CoupeTiresFactory">
+    <Position X="11.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.SUVTiresFactory">
+    <Position X="7.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.SummerTire">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.WinterTire">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.AllSeasonTire">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.JeepSummerTire">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.JeepWinterTire">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.JeepAllSeasonTire">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.CoupeSummerTire">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.CoupeWinterTire">
+    <Position X="11.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.CoupeAllSeasonTire">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.SUVSummerTire">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.SUVWinterTire">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_3_2.SUVAllSeasonTire">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TiresFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

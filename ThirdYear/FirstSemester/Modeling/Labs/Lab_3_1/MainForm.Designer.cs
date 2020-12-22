@@ -2,7 +2,7 @@
 
 namespace Lab_3_1
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -109,7 +109,7 @@ namespace Lab_3_1
             this.Controls.Add(this.chooseCuisineBox);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "MainForm";
             this.Padding = new System.Windows.Forms.Padding(15);
             this.Text = "Меню";
             this.ResumeLayout(false);

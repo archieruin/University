@@ -3,7 +3,12 @@ using System.Drawing;
 
 namespace Lab_4_1
 {
-    class RectangleAdapter
+    interface IDisplay
+    { 
+        public Rectangle Display(int topX, int topY, int bottomX, int bottomY);
+    }
+    
+    class RectangleAdapter : IDisplay
     {
         public Rectangle Display(int topX, int topY, int bottomX, int bottomY)
         {
