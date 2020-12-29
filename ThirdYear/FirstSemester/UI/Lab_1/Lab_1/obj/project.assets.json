@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ruina\\.nuget\\packages\\": {}
+    "C:\\Users\\artur\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruina\\Documents\\projects\\study\\University\\Third Year\\UI\\Lab_1\\Lab_1\\Lab_1.csproj",
+      "projectUniqueName": "D:\\dev\\University\\ThirdYear\\FirstSemester\\UI\\Lab_1\\Lab_1\\Lab_1.csproj",
       "projectName": "Lab_1",
-      "projectPath": "C:\\Users\\ruina\\Documents\\projects\\study\\University\\Third Year\\UI\\Lab_1\\Lab_1\\Lab_1.csproj",
-      "packagesPath": "C:\\Users\\ruina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruina\\Documents\\projects\\study\\University\\Third Year\\UI\\Lab_1\\Lab_1\\obj\\",
+      "projectPath": "D:\\dev\\University\\ThirdYear\\FirstSemester\\UI\\Lab_1\\Lab_1\\Lab_1.csproj",
+      "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
+      "outputPath": "D:\\dev\\University\\ThirdYear\\FirstSemester\\UI\\Lab_1\\Lab_1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ruina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -33,6 +37,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,6 +49,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -57,7 +63,11 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.10, 3.1.10]"
           }
         ],
         "frameworkReferences": {
@@ -68,7 +78,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
